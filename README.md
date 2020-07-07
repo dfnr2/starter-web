@@ -9,7 +9,7 @@ commands using a web project
 
 ## Purpose
 
-As stated above, the amin purpose is to show how to use Git and Github together
+As stated above, the amin purpose is to show how to use Git and Github together in a project
 
 ## Deployment
 
