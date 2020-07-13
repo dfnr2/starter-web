@@ -17,7 +17,7 @@ This is a simple web project, deployment can be on any web server or even local 
 
 ## How To Contribute
 
-Just email me.
+Please fork this repository and then issue pull requests for review
 
 
 2020 git.training
