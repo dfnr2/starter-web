@@ -1,6 +1,7 @@
 # Starter Web Project
 
 This is a simple website project for showing how to use Git and GitHub together
+Add a line to test rebasing
 
 ## Introduction
 
