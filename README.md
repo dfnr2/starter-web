@@ -21,4 +21,4 @@ This is a simple web project, deployment can be on any web server or even local 
 Please fork this repository and then issue pull requests for review
 
 
-2020 git.training
+2020 git.training. All rights reserved
