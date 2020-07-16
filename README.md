@@ -1,7 +1,8 @@
 # Starter Web Project
 
 This is a simple website project for showing how to use Git and GitHub together
-Add a line to test rebasing, then more changes from myfeature branch too.
+
+Doing emergency fix to test out stash
 
 ## Introduction
 
